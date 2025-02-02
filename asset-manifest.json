@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Save-a-Life/static/css/main.c484904c.css",
+    "main.js": "/Save-a-Life/static/js/main.1bdde04e.js",
+    "static/media/nature-prayer.png": "/Save-a-Life/static/media/nature-prayer.912f0fa51a73f2cd5bae.png",
+    "static/media/n2.png": "/Save-a-Life/static/media/n2.518f320f1d4a595001b6.png",
+    "index.html": "/Save-a-Life/index.html",
+    "main.c484904c.css.map": "/Save-a-Life/static/css/main.c484904c.css.map",
+    "main.1bdde04e.js.map": "/Save-a-Life/static/js/main.1bdde04e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c484904c.css",
+    "static/js/main.1bdde04e.js"
+  ]
+}
